@@ -1,0 +1,15 @@
+a:hover {
+    background-color: blue;
+    color: white;
+}
+a:link {
+  background-color:yellow;
+}
+:target {
+    border: 1px solid #D4D4D4;
+    background-color: #e5eecc;
+}
+
+#collection p:last-child {
+    background:blue;
+}

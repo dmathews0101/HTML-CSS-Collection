@@ -1,0 +1,47 @@
+body * {
+    margin : 10px;
+}
+ 
+div {
+    border : 2px solid black;
+    padding : 5px;
+}
+ 
+p {
+    margin : 20px 5px 20px 5px;
+}
+ 
+div#with_id {
+    background-color : Red;
+}
+ 
+div.with_class {
+    background-color : Blue;
+}
+ 
+div p {
+    background-color : Green;
+}
+ 
+div#container_id p {
+    background-color : Yellow;
+}
+ 
+div div p {
+    background-color : Gray;
+}
+ 
+body > p {
+    background-color : Blue;
+    color : yellow;
+    text-align : center;
+}
+ 
+div[data-a=value_1] {
+    background-color : Black;
+    color : white;
+}
+ 
+div[data-a=value_2] {
+    color : #DC143C	;
+}

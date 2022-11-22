@@ -1,0 +1,21 @@
+
+#green_square {
+    position: absolute;
+    left: 30px;
+    top: 50px;
+    z-index: -1;
+}
+#red_square {
+    background-color: red;
+    position: absolute;
+    z-index: -2;
+    left: 60px;
+    top: 90px;
+}
+#blue_square {
+    background-color: blue;
+    z-index: -3;
+    left: 90px;
+    top: 130px;
+    position:absolute;
+}

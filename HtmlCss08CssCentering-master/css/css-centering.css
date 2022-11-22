@@ -1,0 +1,33 @@
+h1
+{
+	text-align:center;
+	background-color:yellow;
+}
+h2
+{
+	text-align:center;
+	margin:auto;
+	margin-top:20px;
+	margin-bottom:20px;
+	width:40%;
+	background-color:orange;
+}
+p
+{
+	margin:auto;
+	width:70%; 
+}
+#tablecell
+{
+	background-color:red;
+	display:table-cell;
+	padding-top: 30px;
+	padding-bottom:30px;
+}
+#lineheight
+{
+	background-color:blue;
+	width:500px;
+	line-height:5;
+	color:white;
+}

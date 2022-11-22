@@ -1,0 +1,23 @@
+
+#pos_static {
+    margin: 1%
+}
+
+#pos_relative {
+    position: relative;
+    margin-left: 2%;
+}
+
+#pos_absolute {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding-right: 4%;
+}
+
+#pos_fixed {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    
+}
